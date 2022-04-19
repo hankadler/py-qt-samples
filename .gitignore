@@ -1,0 +1,24 @@
+# Excludes all files from staging.
+*
+
+# Includes the specified files for staging.
+!/resources/
+!/resources/*.png
+!/resources/*.webp
+!/screenshots/
+!/screenshots/*
+!.gitignore
+!CHANGELOG.md
+!LICENSE
+!appointment.py
+!area_calculator.py
+!messagebox.py
+!notepad.py
+!photoeditor.py
+!Pipfile
+!Pipfile.lock
+!profile.py
+!README.md
+!spinwheel.py
+!texteditor.py
+!user_profile.py
