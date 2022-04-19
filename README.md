@@ -31,7 +31,7 @@ Various GUI samples
 
 ### Spin Wheel
 
-![Spin Wheel](screenshots/sphinwheel.gif)
+![Spin Wheel](screenshots/spinwheel.gif)
 
 ### User Profile
 
