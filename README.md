@@ -40,7 +40,10 @@ Various GUI samples
 
 ## Setup
 
+> The applications were only tested on Windows.
+
 ```bash
+mkdir .venv
 pipenv install
 ```
 
