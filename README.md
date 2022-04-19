@@ -1,6 +1,6 @@
 # PyQt Samples
 
-Various GUI samples.
+Various GUI samples
 
 
 ## Table of Contents
@@ -31,7 +31,7 @@ Various GUI samples.
 
 ### Spin Wheel
 
-![Spin Wheel](screenshots/sphinwheel.PNG)
+![Spin Wheel](screenshots/sphinwheel.gif)
 
 ### User Profile
 
